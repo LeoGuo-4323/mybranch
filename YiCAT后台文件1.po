@@ -1,0 +1,67 @@
+# English translations for yicat.
+# Copyright (C) 2018 Sangfor Phoenix Team
+# This file is distributed under the same license as the yicat project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yicat 1.0.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-01-26 10:07+0800\n"
+"PO-Revision-Date: 2018-07-24 20:26+0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en_US\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: yicat/tests/unit/test_virt/test_yicat_driver.py:288
+msgid "您的登陆状态已失效，请刷新页面重新登录"
+msgstr ""
+
+#: yicat/tests/unit/test_group/test_group_provider.py:393
+msgid "请先选择后操作"
+msgstr ""
+
+#: yicat/virt/yicat/task.py:223
+msgid "新建项目"
+msgstr ""
+
+#: yicat/common/sql/migrate_repo/versions/001_tables_init.py:23
+msgid "新建项目成功"
+msgstr ""
+
+#: yicat/common/sql/migrate_repo/versions/001_tables_init.py:24
+msgid "新建项目失败"
+msgstr ""
+
+#: yicat/common/sql/migrate_repo/versions/001_tables_init.py:2332
+msgid "新建项目（%(prject_name)s ）成功"
+msgstr ""
+
+#: yicat/common/sql/migrate_repo/versions/001_tables_init.py:2333
+msgid "新建项目（%(prject_name)s ）失败"
+msgstr ""
+
+#: yicat/common/sql/migrate_repo/versions/001_tables_init.py:25
+msgid "删除项目"
+msgstr ""
+
+#: yicat/compute/flows/create_image_from_server.py:78
+msgid "删除项目成功"
+msgstr ""
+
+#: yicat/exception.py:1827
+msgid "删除项目失败"
+msgstr ""
+
+#: yicat/common/sql/migrate_repo/versions/001_tables_init.py:2338
+msgid "删除项目（%(prject_name)s ）成功"
+msgstr ""
+
+#: yicat/common/sql/migrate_repo/versions/001_tables_init.py:2339
+msgid "删除项目（%(prject_name)s ）失败"
+msgstr ""
