@@ -20,48 +20,48 @@ msgstr ""
 
 #: yicat/tests/unit/test_virt/test_yicat_driver.py:288
 msgid "您的登陆状态已失效，请刷新页面重新登录"
-msgstr "您的登陆状态已失效，请刷新页面重新登录"
+msgstr "Login status has expired. Please reload the page and try again."
 
 #: yicat/tests/unit/test_group/test_group_provider.py:393
 msgid "请先选择后操作"
-msgstr "请先选择后操作"
+msgstr "Please select the item first."
 
 #: yicat/virt/yicat/task.py:223
 msgid "新建项目"
-msgstr "新建项目"
+msgstr "New Project"
 
 #: yicat/common/sql/migrate_repo/versions/001_tables_init.py:23
 msgid "新建项目成功"
-msgstr "新建项目成功"
+msgstr "Create new project successful."
 
 #: yicat/common/sql/migrate_repo/versions/001_tables_init.py:24
 msgid "新建项目失败"
-msgstr "新建项目失败"
+msgstr "Create new project failed."
 
 #: yicat/common/sql/migrate_repo/versions/001_tables_init.py:2332
 msgid "新建项目（%(prject_name)s ）成功"
-msgstr "新建项目（%(prject_name)s ）成功"
+msgstr "Create the project (%(prject_name)s) successfully."
 
 #: yicat/common/sql/migrate_repo/versions/001_tables_init.py:2333
 msgid "新建项目（%(prject_name)s ）失败"
-msgstr "新建项目（%(prject_name)s ）失败"
+msgstr "Create the project (%(prject_name)s) failed."
 
 #: yicat/common/sql/migrate_repo/versions/001_tables_init.py:25
 msgid "删除项目"
-msgstr "删除项目"
+msgstr "Delete Project"
 
 #: yicat/compute/flows/create_image_from_server.py:78
 msgid "删除项目成功"
-msgstr "删除项目成功"
+msgstr "Delete successful."
 
 #: yicat/exception.py:1827
 msgid "删除项目失败"
-msgstr "删除项目失败"
+msgstr "Delete failed."
 
 #: yicat/common/sql/migrate_repo/versions/001_tables_init.py:2338
 msgid "删除项目（%(prject_name)s ）成功"
-msgstr "删除项目（%(prject_name)s ）成功"
+msgstr "Project (%(prject_name)s) deleted successfully."
 
 #: yicat/common/sql/migrate_repo/versions/001_tables_init.py:2339
 msgid "删除项目（%(prject_name)s ）失败"
-msgstr "删除项目（%(prject_name)s ）失败"
+msgstr "Failed to delete project (%(prject_name)s)."
