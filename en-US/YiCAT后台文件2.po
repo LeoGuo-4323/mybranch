@@ -29,23 +29,23 @@ msgstr "Project (%(prject_name)s) deleted successfully."
 
 #: yicat/common/sql/migrate_repo/versions/001_tables_init.py:2339
 msgid "删除项目（%(prject_name)s ）失败"
-msgstr "Failed to delete project (%(prject_name)s)."
+msgstr "Failed to delete the project (%(prject_name)s)."
 
 #: apollo/exception.py:1846
 msgid "勾选用翻译记忆库进行预翻译成功"
-msgstr "Pre-translation TM check successful."
+msgstr "Pre-translation with TM check successful."
 
 #: apollo/exception.py:1850
 #, python-format
 msgid "勾选用翻译记忆库进行预翻译失败"
-msgstr "Pre-translation TM check failed."
+msgstr "Pre-translation  with TMcheck failed."
 
 #: apollo/exception.py:1854
 #, python-format
 msgid "勾选用机器翻译进行预翻译成功"
-msgstr "Pre-translation MT check successful."
+msgstr "Pre-translation with MT successful."
 
 #: apollo/exception.py:1858
 #, python-format
 msgid "勾选用机器翻译进行预翻译失败。具体原因：%s"
-msgstr "Pre-translation MT check failed.%s"
+msgstr "Pre-translation with MTfailed.%s"
